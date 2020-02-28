@@ -1,4 +1,4 @@
-#Responsive Web Design Projects - Build a Tribute Page
+# Responsive Web Design Projects - Build a Tribute Page
 
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
@@ -26,4 +26,4 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js.
 
-##Codepen URL : https://codepen.io/msvhora/pen/mdJmpZB
+## Codepen URL : https://codepen.io/msvhora/pen/mdJmpZB
